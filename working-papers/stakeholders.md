@@ -22,7 +22,8 @@ All: participating in technical and public meetings. Voting.
 What are their interests in MBC?
 Among all 3 focus areas: validating their work, protecting and creating jobs, minimizing liability. Professional and industry organizations are also interested in maximizing profit.
 
-## individual (subsorted by relationship to MBC) - formally licensed in related area of practice
+## individual (subsorted by relationship to MBC)
+- formally licensed in related area of practice ("licensed experts")
 - demonstrated expertise in related area of practice ("experts")
 - stated interest ("enthusiasts")
 
