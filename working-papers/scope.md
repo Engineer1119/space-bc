@@ -19,6 +19,7 @@ Topics to address:
   - ambient external atmospheric composition
   - internal temperature
   - external ambient temperature
+  - fire
   
 - structural
   - materials
@@ -86,6 +87,5 @@ Topics to address:
   - lighting
   - habitable volume
   - sound
-  - 
 
 Copyright 2018 Patrick A. Donovan, P.E. (CA)
