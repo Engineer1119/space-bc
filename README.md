@@ -22,18 +22,21 @@ If you're involved with any of the following organizations and writing their sta
 - American National Standards Institute (ANSI)
 - ASTM International
 - U.S. Department of Defense (DOD)
+- European Committee for Standardization (CEN)
+- European Committee for Electrotechnical Standardization (CENELEC)
+- European Telecommunications Standards Institute (ETSI)
 - U.S. Federal Emergency Management Agency (FEMA) 
 - International Code Council (ICC)
+- International Maritime Organization (IMO)
 - International Organization for Standardization (ISO)
 - Moon Village Association (MVA) Standards Working Group
 - National Aeronautics and Space Administration (NASA)
 - National Fire Protection Association (NFPA)
 - United Nations Office for Outer Space Affairs (UNOOSA)
 
-Please see the [wiki page](https://github.com/Engineer1119/space-bc/wiki/Who-can-help%3F) for more information.
+Please see the [wiki page](https://github.com/Engineer1119/space-bc/wiki/Who-can-help%3F) for more details.
 
 # Current status
-
-As of November 2018 the above is an incomplete list. MBC is not currently sponsored or endorsed by any of the listed organizations. No MBC author receives compensation for referencing any of the listed organizations and are not affiliated unless noted otherwise. Audience comments from ISDC 2018 suggested adapting maritime standards to the context of off-world structures.
+As of November 2018: feel free to contact me at patrick@alumni.ucla.edu if you're interested in helping. MBC is not currently sponsored or endorsed by any of the listed organizations. No MBC author receives compensation for referencing any of the listed organizations and are not affiliated unless noted otherwise.
 
 Copyright 2018 Patrick A. Donovan, P.E. (CA)
