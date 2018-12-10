@@ -76,6 +76,7 @@ Topics to address:
 - electrical power
   - redundancy
   - transmission
+  - efficiency
 
 - impacts from spaceborne objects
   - micrometeors
@@ -87,5 +88,7 @@ Topics to address:
   - lighting
   - habitable volume
   - sound
+  
+- accessibility
 
 Copyright 2018 Patrick A. Donovan, P.E. (CA)
