@@ -37,6 +37,6 @@ If you're involved with any of the following organizations and writing their sta
 Please see the [wiki page](https://github.com/Engineer1119/space-bc/wiki/Who-can-help%3F) for more details.
 
 # Current status
-As of November 2018: feel free to contact me at patrick@alumni.ucla.edu if you're interested in helping. MBC is not currently sponsored or endorsed by any of the listed organizations. No MBC author receives compensation for referencing any of the listed organizations and are not affiliated unless noted otherwise.
+As of January 2019: feel free to contact me at patrick@alumni.ucla.edu if you're interested in helping. MBC is not currently sponsored or endorsed by any of the listed organizations. No MBC author receives compensation for referencing any of the listed organizations and are not affiliated unless noted otherwise.
 
-Copyright 2018 Patrick A. Donovan, P.E. (CA)
+Copyright 2019 Patrick A. Donovan, P.E. (CA)
