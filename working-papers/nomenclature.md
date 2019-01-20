@@ -1,4 +1,5 @@
-Purpose: this document sets the naming and labeling standards for the to-be-published MBC. Working papers need not follow these rules.
+#Purpose
+This document sets the naming and labeling standards for the to-be-published MBC. Working papers need not follow these rules.
 
 Example of part names and labeling
 0 Chapter
@@ -8,7 +9,7 @@ Example of part names and labeling
 A Appendix
 A.0 Sub-Appendix
 
-Requirements
+#Requirements
 - paragraphs shall not be labeled
 - equations shall be labeled "Equation " followed by the header of the sub-section in which they are first specified
 - tables shall be labeled "Table " followed by the header of the sub-section in which they are first specified
@@ -18,4 +19,4 @@ Requirements
 - figure names, when referenced in text, shall abbreviate "Figure" to "F-"
 - pages shall be labeled x.y , where x is the number of the chapter and y is the number of the page within the chapter, starting at 1.
 
-Copyright 2018 Patrick A. Donovan, P.E. (CA)
+Copyright 2019 Patrick A. Donovan, P.E. (CA)
