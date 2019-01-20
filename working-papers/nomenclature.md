@@ -2,11 +2,17 @@
 This document sets the naming and labeling standards for the to-be-published MBC. Working papers need not follow these rules.
 
 Example of part names and labeling
+
 0 Chapter
+
 0.0 Sub-Chapter
+
 0.0.0 Section
+
 0.0.0.0 Sub-Section
+
 A Appendix
+
 A.0 Sub-Appendix
 
 # Requirements
