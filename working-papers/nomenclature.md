@@ -1,4 +1,4 @@
-#Purpose
+# Purpose
 This document sets the naming and labeling standards for the to-be-published MBC. Working papers need not follow these rules.
 
 Example of part names and labeling
@@ -9,7 +9,7 @@ Example of part names and labeling
 A Appendix
 A.0 Sub-Appendix
 
-#Requirements
+# Requirements
 - paragraphs shall not be labeled
 - equations shall be labeled "Equation " followed by the header of the sub-section in which they are first specified
 - tables shall be labeled "Table " followed by the header of the sub-section in which they are first specified
