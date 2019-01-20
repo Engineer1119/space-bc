@@ -1,8 +1,7 @@
-## Purpose
+# Purpose
 This document sets the naming and labeling standards for the to-be-published MBC. Working papers need not follow these rules.
 
-## Examples
-Example of part names and labeling
+# Example of part names and labeling
 0 Chapter
 0.0 Sub-Chapter
 0.0.0 Section
@@ -10,7 +9,8 @@ Example of part names and labeling
 A Appendix
 A.0 Sub-Appendix
 
-## General Requirements
+# Requirements
+- paragraphs shall not be labeled
 - equations shall be labeled "Equation " followed by the header of the sub-section in which they are first specified
 - tables shall be labeled "Table " followed by the header of the sub-section in which they are first specified
 - figures shall be labeled "Figure " followed by the header of the sub-section in which they are first specified
@@ -83,4 +83,4 @@ A.0 Sub-Appendix
 ### 12 Accessibility
 - 12.1 General
 
-Copyright 2018 Patrick A. Donovan, P.E. (CA)
+Copyright 2019 Patrick A. Donovan, P.E. (CA)

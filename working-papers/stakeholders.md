@@ -6,7 +6,7 @@
 - municipal
 
 How may they participate in drafting versions of MBC?
-All: participating in technical and public meetings. Voting.
+All: participating in technical and public meetings. Voting. Drafting proposed code revisions.
 
 What are their interests in MBC?
 At all 4 levels: protecting their citizens from hazards, promoting economic growth, minimizing liability, satisfying political agendas.
@@ -17,18 +17,18 @@ At all 4 levels: protecting their citizens from hazards, promoting economic grow
 - academic
 
 How may they participate in drafting versions of MBC?
-All: participating in technical and public meetings. Voting.
+All: participating in technical and public meetings. Voting. Drafting proposed code revisions.
 
 What are their interests in MBC?
 Among all 3 focus areas: validating their work, protecting and creating jobs, minimizing liability. Professional and industry organizations are also interested in maximizing profit.
 
 ## individual (subsorted by relationship to MBC)
 - formally licensed in related area of practice ("licensed experts")
-- demonstrated expertise in related area of practice ("experts")
+- demonstrated expertise in related area of practice ("practical experts")
 - stated interest ("enthusiasts")
 
 How may they participate in drafting versions of MBC?
-Experts: participating in technical and public meetings. Voting.
+Experts: participating in technical and public meetings. Voting. Drafting proposed code revisions.
 Enthusiasts: participating in public meetings.
 
 What are their interests in MBC?
@@ -38,4 +38,4 @@ Enthusiasts: living and working in spaces affected by MBC standards.
 # References:
 - International Code Council (ICC) Bylaws https://cdn-web.iccsafe.org/wp-content/uploads/bylaws.pdf
 
-Copyright (C) 2018 Patrick A. Donovan, P.E. (CA)
+Copyright (C) 2019 Patrick A. Donovan, P.E. (CA)
