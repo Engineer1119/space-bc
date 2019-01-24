@@ -14,7 +14,9 @@ Please share your perspectives and insights by doing any or all of the following
 - create an issue to request or suggest changes, or to note errors
 - open a pull request if you would like to submit a new file or initiate changes to an existing file
 - sharing this repo with friends and experts who would be interested
-- contacting me directly at patrick@alumni.ucla.edu 
+- contacting me directly at patrick@alumni.ucla.edu
+
+Please see the [Contributor Guide](https://github.com/Engineer1119/space-bc/blob/master/CONTRIBUTING.md) for more details.
 
 # Want to help?
 If you're involved with any of the following organizations and writing their standards publications, then your input is especially valuable to guiding MBC in the right direction.
