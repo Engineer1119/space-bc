@@ -7,6 +7,7 @@ Please add enough information with each entry to reasonably accomplish each of t
 # papers
 *research by others who highlight useful concepts*
 - Cohen, Mark M. "Mockups 101: Code and Standard Research for Space Habitat Analogues." DOI: 10.2514/6.2012-5153} Conference: Conference: AIAA SPACE 2012 Conference & Exposition. [Link](https://www.researchgate.net/publication/268569804_Mockups_101_Code_and_Standard_Research_for_Space_Habitat_Analogues); see Table 5 for list of useful references
+- Elishakoff, Isaac. "Interrelation Between Safety Factors and Reliability." NASA/CR-2001-211309. November 2001. [Link](https://github.com/Engineer1119/space-bc/blob/master/support/NASA%20safety%20factor.pdf)
 
 # models
 *generally, "ways of doing things"*
