@@ -6,6 +6,16 @@ This document exists for two reasons. First, it is intended to help individuals 
 
 Second, this document lays out some baseline expectations for reasonably interacting one another. In addition to the obvious reasons for doing so (like the lack of internet police), publicly writing down these expectations (and the appropriate response for the unfortunate cases when they aren't met) is vital to ensuring fair treatment of anyone involved. Also because we're not being paid enough to deal with internet trolls.
 
+## The Contribution Process
+
+Each change to the official text of the MBC, as stored in this repo, goes through the following process. Capitalized words have specific definitions that are explained in later sections of this file.
+
+1. A Researcher, Developer, or Writer opens a new Issue.
+2. Anyone may informally comment on the Issue.
+3. A Developer or Writer responds to the Issue by creating a Pull Request.
+4. A Reviewer may need to approve the Pull Request before it's merged.
+5. A Developer or Writer with the necessary permissions merges the Pull Request and closes the related Issue.
+
 ## How to Contribute
 
 If you've used Github before, then you can skip straight to the "Roles" section below.
@@ -30,6 +40,8 @@ There are some words or phrases that are very specific to Github that you'll see
 [Here's the full list of Github terms.](https://help.github.com/articles/github-glossary/)
 
 ### Roles
+
+Feel free to contact me at patrick@alumni.ucla.edu if you would like to fill one or more of the roles outlined below.
 
 #### Researcher
 
