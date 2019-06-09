@@ -20,6 +20,8 @@ Please see the [Contributor Guide](https://github.com/Engineer1119/space-bc/blob
 
 # Want to help?
 If you're involved with any of the following organizations and writing their standards publications, then your input is especially valuable to guiding MBC in the right direction.
+- American Institute of Aeronautics and Astronautics (AIAA)
+- AIAA Space Architecture Technical Committee (AIAA SATC)
 - American Society of Civil Engineers (ASCE)
 - American National Standards Institute (ANSI)
 - ASTM International
