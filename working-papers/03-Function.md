@@ -1,6 +1,6 @@
 # 03 Building Functions
 ## 03.1 General
-The purpose of this section is to define categories of structures with respect to how they are intended to be used, and who is intended to use them, in order to consistently apply standards particular to their use.
+The purpose of this chapter is to define categories of structures with respect to how they are intended to be used, and who is intended to use them, in order to consistently apply standards particular to their use.
 
 ## 03.2 Use
 The *use* of a structure is the socioeconomic function it fulfills.
