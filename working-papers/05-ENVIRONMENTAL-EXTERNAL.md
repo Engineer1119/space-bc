@@ -38,3 +38,12 @@ The structure design shall account for the maximum design temperature, minimum d
 *Minimum external design pressure* is the minimum atmospheric pressure during the service lifetime of the structure. If the structure will be exposed to vacuum during its service lifetime then the minimum external design pressure shall be taken as 0 kPa.
 
 ### 05.2.3 Composition
+
+The structure design shall account for the following aspects of the external atmosphere and material that it may carry:
+
+- chemical reactivity with the structure
+- chemical reactivity with the internal atmosphere
+
+If the structure will remain in vacuum for the duration of its service lifetime, then the structure design shall account for:
+
+- chemical reactivity with solar wind
