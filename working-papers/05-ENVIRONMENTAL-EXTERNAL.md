@@ -84,12 +84,22 @@ The freezing point of water at STP, 0 degrees Celsius, is used as one of two thr
 ### 05.3.2 Pressure
 #### 05.3.2.1 Pressure Design Category
 
+Table 05.3.2.1T
+
+| Pressure Design Category | Definition |
+| ----------- | ----------- |
+| P1 | DPR entirely between threshold pressures. |
+| P2 | DPR falls partly outside of the threshold pressure ranges. |
+| P3 | DPR entirely falls below the lower threshold pressure. |
+| P4 | DPR entirely exceeds the higher threshold pressure. |
+| P5 | DPR entirely includes the threshold pressure range. |
+
 #### 05.3.1.2 PDC Threshold Pressures
 The lower PDC threshold pressure shall be taken as []
 The higher PDC threshold pressure shall be taken as []
 
-#### 05.3.2.1C Pressure Design Category
-The thresholds used to define PDC are based on typically human-survivable pressure ranges. Partial pressure requirements are addressed in []. Emergency underpressure or overpressure requirements are addressed in [].
+#### 05.3.2.2C PDC Threshold Pressures
+The thresholds used to define PDC are based on typically human-survivable pressure ranges. While no other celestial body in the solar system has a naturally breathable atmosphere, the PDC definition is identical for both internal and external environments for interoperability. Nitrogen narcosis and oxygen toxicity, then, are not true drivers for the threshold pressures for external environmental classification. Partial pressure requirements are addressed in []. Emergency underpressure or overpressure requirements are addressed in [].
 
 ## 05.3.3 Chemical
 
