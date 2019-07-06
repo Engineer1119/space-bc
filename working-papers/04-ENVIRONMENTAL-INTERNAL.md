@@ -1,4 +1,4 @@
-# 04 Environmental - External
+# 04 Environmental - Internal
 
 ## 04.1 General
 The purpose of this chapter is to describe the environment internal to the structure and to reference the standards applicable to those conditions.
@@ -41,7 +41,7 @@ The structure design shall account for the DTR and thermal gradients in accordan
 - maximum fluid pressure in direct contact with the structure
 
 #### 04.2.2.2 Minimum Internal Design Pressure
-*Minimum internal design pressure* is the minimum atmospheric pressure during the service lifetime of the structure. If the structure will be exposed to vacuum during its service lifetime then the minimum external design pressure shall be taken as 0 kPa.
+*Minimum internal design pressure* is the minimum atmospheric pressure during the service lifetime of the structure. If the interior structure will be exposed to vacuum during its service lifetime then the minimum external design pressure shall be taken as 0 kPa.
 
 #### 04.2.2.4 Design Pressure Range
 The Design Pressure Range (DPR) is bounded by the Minimum Design Pressure and Maximum Design Pressure.
@@ -98,7 +98,7 @@ The lower PDC threshold pressure shall be taken as []
 The higher PDC threshold pressure shall be taken as []
 
 #### 04.3.2.2C PDC Threshold Pressures
-The thresholds used to define PDC are based on typically human-survivable *total* pressure ranges assuming a *standard internal atmospheric composition*, yielding appropriate partial pressures of constituent gases for unassisted breathing. Partial pressure requirements are addressed in []. Emergency underpressure or overpressure requirements are addressed in [].
+The thresholds used to define PDC are based on typically human-survivable *total* pressure ranges assuming a *standard internal atmospheric composition*, yielding appropriate partial pressures of constituent gases for long-term unassisted breathing without significant risk of nitrogen narcosis or oxygen toxicity. Partial pressure requirements are addressed in []. Emergency underpressure or overpressure requirements are addressed in [].
 
 ## 04.3.3 Chemical
 
