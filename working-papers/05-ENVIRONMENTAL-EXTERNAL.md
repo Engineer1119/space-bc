@@ -99,7 +99,7 @@ The lower PDC threshold pressure shall be taken as []
 The higher PDC threshold pressure shall be taken as []
 
 #### 05.3.2.2C PDC Threshold Pressures
-The thresholds used to define PDC are based on typically human-survivable pressure ranges. While no other celestial body in the solar system has a naturally breathable atmosphere, the PDC definition is identical for both internal and external environments for interoperability. Nitrogen narcosis and oxygen toxicity, then, are not true drivers for the threshold pressures for external environmental classification. Partial pressure requirements are addressed in []. Emergency underpressure or overpressure requirements are addressed in [].
+The thresholds used to define PDC are based on typically human-survivable pressure ranges. While no other celestial body in the solar system has a naturally breathable atmosphere, the PDC definition is identical for both internal and external environments for interoperability. Nitrogen narcosis and oxygen toxicity, then, are not true drivers for the higher threshold pressure for external environmental classification. Partial pressure requirements are addressed in []. Emergency underpressure or overpressure requirements are addressed in [].
 
 ## 05.3.3 Chemical
 
