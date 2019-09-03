@@ -33,7 +33,7 @@ If you're involved with any of the following organizations and writing their sta
 - International Code Council (ICC)
 - International Maritime Organization (IMO)
 - International Organization for Standardization (ISO)
-- Moon Village Association (MVA) Standards Working Group
+- Moon Village Association (MVA)
 - National Aeronautics and Space Administration (NASA)
 - National Fire Protection Association (NFPA)
 - United Nations Office for Outer Space Affairs (UNOOSA)
@@ -41,6 +41,10 @@ If you're involved with any of the following organizations and writing their sta
 Please see the [wiki page](https://github.com/Engineer1119/space-bc/wiki/Who-can-help%3F) for more details.
 
 # Current status
-As of January 2019: feel free to contact me at patrick@alumni.ucla.edu if you're interested in helping. MBC is not currently sponsored or endorsed by any of the listed organizations. No MBC author receives compensation for referencing any of the listed organizations and are not affiliated unless noted otherwise.
+As of September 2019: feel free to contact me at patrick@alumni.ucla.edu if you're interested in helping. MBC is not currently sponsored or endorsed by any of the listed organizations. No MBC author receives compensation for referencing any of the listed organizations and are not affiliated unless noted otherwise.
+
+# Related Projects
+- [Mars Colony Legal Code](http://marslegalcode.org/)
+- [Moon Village Association Architectural Concepts & Issues](https://moonvillageassociation.org/about/projects/architectural-concepts/)
 
 Copyright 2019 Patrick A. Donovan, P.E. (CA)
