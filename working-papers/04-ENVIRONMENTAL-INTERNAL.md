@@ -4,14 +4,30 @@
 The purpose of this chapter is to describe the environment internal to the structure and to reference the standards applicable to those conditions.
 
 ## 04.2 Internal Atmosphere
-### 04.2.1 Temperature
-#### 04.2.1.1 Maximum Internal Design Temperature
+### 04.2.1 Standard Internal Atmosphere
+The standard internal atmosphere shall have a composition complying with 04.2.1.1 and 04.2.1.2.
+
+#### 04.2.1.1 Composition
+- 21 kilopascals, diatomic oxygen
+- 79 kilopascals, diatomic nitrogen
+
+#### 04.2.1.2 Variation
+- constituent gas partial pressure shall not vary by more than [] pascals within a 24-hour period
+
+#### 04.2.1.3 Non-Standard Internal Atmosphere
+The building official is permitted to approve a design specifying non-standard atmospheric mixes if all code-specified risks to occupants are demonstrated to be at or below the level provided by a standard atmosphere.
+
+#### 04.2.1.3C Non-Standard Internal Atmosphere
+Alternative atmospheric mixes pose unique hazards to occupants, including chemical toxicity, narcosis, and flammability. However, certain operating conditions may require their use.
+
+### 04.2.2 Temperature
+#### 04.2.2.1 Maximum Internal Design Temperature
 *Maximum internal design temperature* is the largest of the following options during the service lifetime of the structure:
 - the maximum atmospheric temperature,
 - maximum fluid temperature, or
 - maximum temperature of solids in direct contact with the structure
 
-#### 04.2.1.2 Minimum Internal Design Temperature
+#### 04.2.2.2 Minimum Internal Design Temperature
 *Minimum internal design temperature* is the smallest of the following options during the service lifetime of the structure:
 - the minimum atmospheric temperature,
 - minimum fluid temperature, or
@@ -19,42 +35,35 @@ The purpose of this chapter is to describe the environment internal to the struc
 
 The minimum need not be taken as any lower than -270.425 degrees Celsius.
 
-#### 04.2.1.2C Minimum Design Temperature
+#### 04.2.2.2C Minimum Design Temperature
 The lower bound on the minimum design temperature is the average cosmic background temperature.
 
-#### 04.2.1.3 Design Temperature Modification
+#### 04.2.2.3 Design Temperature Modification
 The building official is permitted to approve a design with documentation supporting a higher minimmum design temperature or a lower maximum design temperature.
 
-#### 04.2.1.3C Design Temperature Modification
+#### 04.2.2.3C Design Temperature Modification
 If temperature extremes determined by 05.2.1.1 and 05.2.1.2 are sufficiently short-term (for example, an orbital station eclipsed by its parent body) the structure may not achieve thermal equilibrium with its surroundings.
 
-#### 04.2.1.4 Design Temperature Range
+#### 04.2.2.4 Design Temperature Range
 The Design Temperature Range (DTR) is bounded by the Minimum Design Temperature and Maximum Design Temperature.
 
-#### 04.2.1.5 Thermal Design
+#### 04.2.2.5 Thermal Design
 The structure design shall account for the DTR and thermal gradients in accordance with Chapter 07.
 
-### 04.2.2 Pressure
-#### 04.2.2.1 Maximum Internal Design Pressure
+### 04.2.3 Pressure
+#### 04.2.3.1 Maximum Internal Design Pressure
 *Maximum internal design pressure* is the largest of the following options during the service lifetime of the structure:
 - the maximum atmospheric pressure,
 - maximum fluid pressure in direct contact with the structure
 
-#### 04.2.2.2 Minimum Internal Design Pressure
+#### 04.2.3.2 Minimum Internal Design Pressure
 *Minimum internal design pressure* is the minimum atmospheric pressure during the service lifetime of the structure. If the interior structure will be exposed to vacuum during its service lifetime then the minimum external design pressure shall be taken as 0 kPa.
 
-#### 04.2.2.4 Design Pressure Range
+#### 04.2.3.4 Design Pressure Range
 The Design Pressure Range (DPR) is bounded by the Minimum Design Pressure and Maximum Design Pressure.
 
-#### 04.2.2.5 Pressure Design
+#### 04.2.3.5 Pressure Design
 The structure design shall account for the DPR and pressure gradients in accordance with Chapter 07.
-
-### 04.2.3 Composition
-
-The structure design shall account for the following aspects of the internal atmosphere and material that it may carry:
-
-- chemical reactivity with the structure
-- chemical reactivity with the external atmosphere
 
 ## 04.3 Hazards
 This section defines tiers of design considerations.
@@ -105,6 +114,10 @@ See [United States Code of Federal Regulations Title 14, Chapter I, Subchapter F
 Commercial and military regulation of breathing gases for high-altitude and hyperbaric diving operations offers comparatively more quantitatively rigorous standards. 
 
 ## 04.3.3 Chemical
+### 04.3.3.1 Structural Integrity
+The structure design shall account for the following aspects of the internal atmosphere and material that it may carry:
+- chemical reactivity with the structure
+- chemical reactivity with the external atmosphere
 
 ## 04.3.4 Biological
 
