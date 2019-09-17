@@ -100,6 +100,10 @@ The higher PDC threshold pressure shall be taken as []
 #### 04.3.2.2C PDC Threshold Pressures
 The thresholds used to define PDC are based on typically human-survivable *total* pressure ranges assuming a *standard internal atmospheric composition*, yielding appropriate partial pressures of constituent gases for long-term unassisted breathing without significant risk of nitrogen narcosis or oxygen toxicity. Partial pressure requirements are addressed in []. Emergency underpressure or overpressure requirements are addressed in [].
 
+See [United States Code of Federal Regulations Title 14, Chapter I, Subchapter F, Part 91—General Operating and Flight Rules Subpart C—Equipment, Instrument, and Certificate Requirements, Docket No. 18334, 54 FR 34304 §91.211 Supplemental oxygen of August 18, 1989](https://www.ecfr.gov/cgi-bin/text-idx?SID=2b854616f1b780d1a92192497b708362&mc=true&node=pt14.2.91&rgn=div5#se14.2.91_1211) for an example of regulation of the partial pressure of oxygen in civil aircraft with implicit limits on the exposure of crew and passengeres to the risk of hypoxic conditions.
+
+Commercial and military regulation of breathing gases for high-altitude and hyperbaric diving operations offers comparatively more quantitatively rigorous standards. 
+
 ## 04.3.3 Chemical
 
 ## 04.3.4 Biological
