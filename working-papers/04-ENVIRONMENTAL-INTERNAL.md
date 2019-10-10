@@ -7,17 +7,61 @@ The purpose of this chapter is to describe the environment internal to the struc
 ### 04.2.1 Standard Internal Atmosphere
 The standard internal atmosphere shall have a composition complying with 04.2.1.1 and 04.2.1.2.
 
+### 04.2.1C Standard Internal Atmosphere
+For comparison, see Attachment C "Human Rating and Habitability Criteria" to Appendix K: "Commercial Destination Development in Low Earth Orbit (LEO) Free Flyer", part of NASA's Next Space Technologies for Exploration Partnerships-2 (NextSTEP-2), Broad Agency Announcement NNH16ZCQ001K-CDFF, dated to September 23, 2019. Notes in Table 3 of this document make informal references to standards for the ISS.
+
 #### 04.2.1.1 Composition
 - 21 kilopascals, diatomic oxygen
 - 79 kilopascals, diatomic nitrogen
 
-#### 04.2.1.2 Variation
-- constituent gas partial pressure shall not vary by more than [] pascals within a 24-hour period
+#### 04.2.1.1C Composition
+The document cited in 04.2.1C states that "the ranges" of 19.4 to 22.7 kilopascals partial pressure of O2 "are nominal physiological values for indefinite human exposure without measurable impairments to health or performance and is within the range that ISS operates."
 
-#### 04.2.1.3 Non-Standard Internal Atmosphere
-The building official is permitted to approve a design specifying non-standard atmospheric mixes if all code-specified risks to occupants are demonstrated to be at or below the level provided by a standard atmosphere.
+#### 04.2.1.2 Pressure Variation from Standard
+Internal atmospheric pressure shall not increase by more than 800 pascals per second. Internal atmospheric pressure shall not decrease by more than 890 pascals per second.
 
-#### 04.2.1.3C Non-Standard Internal Atmosphere
+#### 04.2.1.2C Variation
+See Table 3 from the document cited in 04.2.1C.
+
+#### 04.2.1.3 Standard Internal Carbon Dioxide
+The partial pressure of carbon dioxide in the internal atmosphere shall not exceed 530 pascals.
+
+#### 04.2.1.3C Carbon Dioxide
+The document cited in 04.2.1C states that the upper limit of 4.0 mmHg of carbon dioxide partial pressure, and lack of a minimum value, "are nominal physiological values for indefinite human exposure without measurable impairments to health or performance."
+
+#### 04.2.1.4 Standard Internal Temperature
+The internal temperature shall be maintained between 18.3 and 26.7 degrees Celsius.
+
+#### 04.2.1.4C Standard Internal Temperature
+Per the document cited in 04.2.1C, "these temperature limits protect for human comfort (and thus performance of routine activities) without the use of thermal protective garments."
+
+#### 04.2.1.5 Standard Internal Humidity
+Internal atmospheric humidity shall be maintained between 25% and 75%.
+
+#### 04.2.1.5C Standard Internal Humidity
+Per the document cited in 04.2.1C, the lower limit is set such that "the environment is not too dry for the nominal functioning of mucous membranes" and to reduce the risk of electrostatic discharge. The upper limit is similarly set "for crew comfort, to allow for effective evaporation, and to limit the formation of condensation."
+
+#### 04.2.1.6 Internal Atmospheric Circulation
+The bulk time-average velocity of air shall be between 4.6 and 36.6 meters per minute. The minimum velocity of air shall be between 2.1 and 60.9 meters per minute.
+
+Exclusions:
+- the volume of air within 15.2 centimeters of a wall, floor, ceiling, or other fixed solid surface defining the boundaries of the internal atmosphere.
+- the volume of air within 7.6 centimeters of permanently fixed mechanical equipment that does not require air flow for nominal functionality.
+
+#### 04.2.1.6C Internal Atmospheric Circulation
+Values from Table 3 of the document cited in 04.2.1C. The document cited in 04.2.1C further cites NASA document JSC 65993, Commercial Human-Systems Integration Requirements, CH6008 "for rationale pertaining to values." 
+
+#### 04.2.1.7 Non-Standard Internal Atmosphere
+The building official is permitted to approve a design specifying non-standard atmospheric mixes if all code-specified risks to occupants are demonstrated to be at or below the level provided by a standard atmosphere. Permanently fixed signage shall be placed at all human-accessible entrances to volumes containing non-standard atmospheric mixes indicating all of the following in legible script:
+- the approved use of a non-standard internal atmosphere,
+- the conditions of use,
+- placards complying with United Nations hazardous materials (HAZMAT U.N.) labeling requirements for all relevant substances within or forming the non-standard atmosphere,
+- a diagram indicating the locations and functions of any equipment used to maintain, create, and vent the non-standard atmosphere, and
+- a full description of deviations from the standard atmosphere.
+
+Separations between standard internal atmospheres and non-standard internal atmospheres shall comply with all requirements pertaining to separations between standard internal atmospheres and external atmospheres.
+
+#### 04.2.1.7C Non-Standard Internal Atmosphere
 Alternative atmospheric mixes pose unique hazards to occupants, including chemical toxicity, narcosis, and flammability. However, certain operating conditions may require their use.
 
 ### 04.2.2 Temperature
